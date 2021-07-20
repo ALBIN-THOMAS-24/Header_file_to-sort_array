@@ -8,8 +8,10 @@ iii) Insertion Sort
 iv)  Merge Sort
 
 User can able to call the function without writing the code in C.
-For Example if user want to use selection sort to sort array , just include header file #include<SORTING.h> and call function  selection_sort(array_name,size_of_array);
-For Bubble Sort , call function bubble_sort(array_name,size_of_array)
-for Insertion Sort, call function insertion_sort(array_name,size_of_array)
-for Merge Sort, call function MERGE_SORT(array_name,lower limit, size_of_array)
+include header file #include<SORTING.h> 
+1.) For Selection Sort, call selection_sort(array_name,size_of_array);
+2.) For Bubble Sort , call function bubble_sort(array_name,size_of_array)
+
+3.) for Insertion Sort, call function insertion_sort(array_name,size_of_array)
+4.) for Merge Sort, call function MERGE_SORT(array_name,lower limit, size_of_array)
 
